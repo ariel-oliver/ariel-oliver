@@ -4,7 +4,7 @@ Welcome to my GitHub repository! I'm a versatile DevOps Engineer with a passion 
 
 ## Skills
 
-- ⚡ **Cloud Platforms:** AWS
+- ⚡ **Cloud Platforms:** AWS, AZURE && GCP
 - 🚀 **Container Orchestration:** Kubernetes
 - 🛠️ **Infrastructure as Code:** Terraform
 - 🔧 **Configuration Management:** Ansible

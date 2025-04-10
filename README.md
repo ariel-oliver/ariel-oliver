@@ -18,6 +18,6 @@ I'm open to collaboration and contributions. Feel free to submit pull requests o
 
 ## Contact
 
-📧 Email: [arielson.dev.aws@gmail.com](mailto:arielson.dev.aws@gmail.com)
+📧 Email: [arielson.dev@gmail.com](mailto:arielson.dev@gmail.com)
 
 Thanks for stopping by! Happy coding! 🚀

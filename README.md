@@ -1,6 +1,6 @@
 # DevOps Engineer
 
-Welcome to my GitHub repository! I'm a versatile DevOps Engineer with a passion for automating and optimizing processes across the software development lifecycle. Here's a snapshot of my skills and projects:
+Welcome to my GitHub repository! I'm a DevOps Engineer with a passion for automating and optimizing processes across the software development lifecycle. Here's a snapshot of my skills:
 
 ## Skills
 
